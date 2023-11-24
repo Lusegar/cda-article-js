@@ -1,4 +1,9 @@
 # 🚀 Les langages orientés objet 2023 
+# <font color="orange">Projet CDA ARTICLE JS</font>
+>Projet initial pour apprendre les bonnes pratiques et rendre performante &amp; inclusive une application ♿️
+
+# <font color="orange">Lien direct</font>
+https://lusegar.github.io/cda-article-js/
 ##  📝 Php and POO
 La programmation orientée objet (POO) est devenue indispensable, oui, mais pourquoi ? Parce qu'elle permet une meilleure organisation de vos projets, facilite la maintenance de votre code, et offre une grande souplesse pour faire évoluer votre logiciel sans avoir à tout réécrire
 [Lire l'rticle](https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php/7306872-decouvrez-les-objets-et-les-classes)
