@@ -21,7 +21,7 @@ export const User_data = {
         console.log(data.id + "\n" + data.title + "\n" + data.content + "\n" + data.link + "\n");
         }*/
         for (let index of articles) {
-            this.el.innerHTML += `<ul id="${index.id}"><li><h2>${index.title}<\h2><\li> <li><p>${index.content}<\p><\li> <li><a href="${index.link}" target="blank>Plus sur le sujet &raquo;<\a><\li><\ul>`;
+            this.el.innerHTML += `<ul id="${index.id}"><li><h2>${index.title}</h2></li> <li><p>${index.content}</p></li> <li><a href="${index.link}" target="_blank">Plus sur le sujet &raquo;</a></li></ul>`;        
         }
     }
 };
